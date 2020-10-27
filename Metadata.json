@@ -1,7 +1,7 @@
 {
     "Author": "Stas Kuvshinov",
     "ContentSize": 43770,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-and-delete-empty-resource-groups-(authenticate-with-ps-credential)/master/Find-EmptyResourceGroups_connect_with_pscredential.graphrunbook",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-and-delete-empty-resource-groups--authenticate-with-ps-credential-/master/Find-EmptyResourceGroups_connect_with_pscredential.graphrunbook",
     "DownloadCount": 811,
     "Id": "Find-and-Delete-Empty-5f3c0df8",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "The runbook connects to Azure using Automation PS Credential asset and finds (and optionally deletes) resource groups with no resources.\u00a0You can attach a schedule to this runbook to run it periodically.",
     "Title": "Find and Delete Empty Resource Groups (authenticate with PS Credential)",
     "UpdatedDate": "2016-6-2T00:00:00",
-    "Url": "https://github.com/azureautomation/find-and-delete-empty-resource-groups-(authenticate-with-ps-credential)",
+    "Url": "https://github.com/azureautomation/find-and-delete-empty-resource-groups--authenticate-with-ps-credential-",
     "UserTags": "CleanUp, Resource Groups, GraphicalPS"
 }
